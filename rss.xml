@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Joe Test]]></title>
         <description><![CDATA[Joe Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joe-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 16:38:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 16:40:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joe-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/382c843e-38b3-4656-80d9-6c2a541d2830.jpg">]]></description>
-            <link>undefineda2470edf-5a8b-453e-8bc3-40dc459775dc/index.html</link>
+            <link>https://thegrid.ai/joe-test/a2470edf-5a8b-453e-8bc3-40dc459775dc/index.html</link>
             <guid isPermaLink="false">a2470edf-5a8b-453e-8bc3-40dc459775dc</guid>
-            <pubDate>Sun, 10 Jan 2016 16:38:08 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 16:40:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
