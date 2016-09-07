@@ -1,28 +1,40 @@
-name: Joe Test
-favicon: null
-layout_spectrum: 0.5704533886164427
-typography_spectrum: 0.0026613185182213783
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.6542040624190122
+  brandStrength: 0.6744180219247937
+  rhythmicContrast: 0.1425484318751842
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6744180219247937
   lightness: 0.4573780579958111
-  saturation: 0.6542040624190122
-  rhythmicContrast: 0.14254843187518418
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Joe Test
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5155317
+layout_spectrum: 0.5704533886164427
